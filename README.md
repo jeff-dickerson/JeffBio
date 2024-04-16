@@ -1,4 +1,4 @@
-# JeffBio
+# jeff-dickerson/README.md
 
 <h1 align="center">Hi 👋, I'm Jeff Dickerson</h1>
 
