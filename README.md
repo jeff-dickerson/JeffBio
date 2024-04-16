@@ -1,4 +1,4 @@
-# jeff-dickerson/README.md
+jeff-dickerson/README.md
 
 <h1 align="center">Hi 👋, I'm Jeff Dickerson</h1>
 
